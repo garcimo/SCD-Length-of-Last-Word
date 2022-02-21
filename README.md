@@ -1,5 +1,5 @@
 # SCD-Length-of-Last-Word
-C++ program created for Society of Computer Developer's Winter 2022 Hackathon. 
+C++ program created for one of Society of Computer Developer's Winter 2022 Hackathon coding challenge. 
 
 "Given a string s consisting of some words separated by some number of spaces, 
 return the length of the last word in the string. A word is a maximal substring 
